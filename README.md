@@ -2,6 +2,7 @@
 
 # 이성준의 깃허브
 ### 인공지능을 공부하고 있습니다.
+![Yisungjoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yisungjoon&show_icons=true&theme=radical)
 ***
 <img src="https://www.kaggle.com/static/images/site-logo.svg" width="100"></img>
 
