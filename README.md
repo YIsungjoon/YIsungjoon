@@ -2,10 +2,12 @@
 
 # 이성준의 깃허브
 ### 인공지능을 공부하고 있습니다.
+***
+<img src="https://www.kaggle.com/static/images/site-logo.svg" width="100"></img>
 
 ***
-- Mail :
-- Bolg :
+- Mail : 
+- Bolg : 
 - [네이버](www.naver.com)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
