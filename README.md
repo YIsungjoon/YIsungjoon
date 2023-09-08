@@ -31,6 +31,7 @@ stack
 > > > this
 > > > > https://gist.github.com/ihoneymon/652be052a0727ad59601 마크다운 참고
 > > > > https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/README.md#typing-mode-
+> > > > https://shields.io/
 
 <!--
 **YIsungjoon/YIsungjoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
