@@ -17,7 +17,7 @@
 | [개인]이어드림 1차 모의경진대회 | 23.09.04. ~ 23.09.08. | 119 신고 접수량 예측 | Time series prediction | | 9/60 |  |
 | [개인]이어드림 2차 모의경진대회 | 23.09.27. ~ 23.10.06. | 이미지 기반 제품 결함 탐지 | Image Classification |  | 9/64 |  |
 | [개인]이어드림 3차 모의경진대회 | 23.10.30. ~ 23.11.03. | 자연스러운 영한 번역문 생성 | Translation |  | 5/64 |  |
-| [팀]프로젝트 | 23.11.09. ~ 23.12.15. | 도메인 특화 LLM 챗봇(RAG with DPR) | QA Chatbot | 개념, 데이터 크롤링 및 질문 데이터셋, 모델링, PPT이미지, streamlit 담당 |  | [링크](https://drive.google.com/file/d/1H33hDMQHjbySMR87FqZCqgO_a6AGlfyT/view?usp=drive_link) |
+| [팀]프로젝트 | 23.11.09. ~ 23.12.15. | [도메인 특화 LLM 챗봇(RAG with DPR)](https://github.com/YIsungjoon/MuseumChatbot) | QA Chatbot | 개념, 데이터 크롤링 및 질문 데이터셋, 모델링, PPT이미지, streamlit 담당 |  | [링크](https://drive.google.com/file/d/1H33hDMQHjbySMR87FqZCqgO_a6AGlfyT/view?usp=drive_link) |
 | [팀]대회(진행중) | 23.12.20. ~ 24.01.29. | (Kaggle) Enefit-Predict Energy Behavior of Prosumers | Time series prediction | |  |  |
 ***
 ## stack
