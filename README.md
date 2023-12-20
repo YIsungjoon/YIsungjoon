@@ -7,7 +7,7 @@
 [<img src="https://www.kaggle.com/static/images/site-logo.svg" width="100">](https://www.kaggle.com/treetreeanderson)
 ***
 - E-Mail : leehm21897@daum.net
-- [포트폴리오](https://drive.google.com/drive/folders/1ydydBjY-4Psi_SWMWH23e36OgyjBsUQ-?usp=drive_link)
+- [포트폴리오폴더](https://drive.google.com/drive/folders/1ydydBjY-4Psi_SWMWH23e36OgyjBsUQ-?usp=drive_link)
 ***
 ## 프로젝트 및 대회 참가
 | 분류   | 기간  | 주제 | Task |역할 | 비고 | pdf링크 |
