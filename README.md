@@ -21,8 +21,9 @@
 | [팀]대회참가(진행중) | 23.12.20. ~ 24.01.29. | Enefit-Predict Energy Behavior of Prosumers | Time series prediction | |  |
 ***
 ## stack
-----------
 > Python, Pandas, matplotlib, seaborn, plotly, Pytorch, Streamlit, ML(RF, XGB), DL
+----------
+
 
 <!--
 **YIsungjoon/YIsungjoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
