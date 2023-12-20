@@ -13,7 +13,7 @@
 | 분류   | 기간  | 주제 | Task |역할 | 비고 |
 |--------|------|------|-----|-----|-----|
 | [팀]프로젝트 | 23.05.09. ~ 23.05.17. | 데이터분석 프로젝트 | EDA | 팀장 |  |
-| [팀]프로젝트 | 23.06.16. ~ 23.06.30. | (Kaggle) ICR-Identifying Age-Related Conditions | Binary Classification | 팀장 | bronze |
+| [팀]프로젝트 | 23.06.16. ~ 23.06.30. | [(Kaggle) ICR-Identifying Age-Related Conditions](https://www.notion.so/Kaggle-ICR-Use-Machine-Learning-to-detect-conditions-with-measurements-of-anonymous-characteristics-7b214aac5705468b99b50b0104228732?pvs=4) | Binary Classification | 팀장 | bronze |
 | [개인]이어드림 1차 모의경진대회 | 23.09.04. ~ 23.09.08. | 119 신고 접수량 예측 | Time series prediction | | 9/60 |
 | [개인]이어드림 2차 모의경진대회 | 23.09.27. ~ 23.10.06. | 이미지 기반 제품 결함 탐지 | Image Classification |  | 9/64 |
 | [개인]이어드림 3차 모의경진대회 | 23.10.30. ~ 23.11.03. | 자연스러운 영한 번역문 생성 | Translation |  | 5/64 |
