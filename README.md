@@ -10,7 +10,7 @@
 - [포트폴리오폴더](https://drive.google.com/drive/folders/1ydydBjY-4Psi_SWMWH23e36OgyjBsUQ-?usp=drive_link)
 ***
 ## 프로젝트 및 대회 참가
-| 분류   | 기간  | 주제 | Task |역할 | 비고 | pdf링크 |
+| 분류   | 기간  | 주제 | Task |역할 | 순위 | pdf링크 |
 |--------|------|------|-----|-----|-----|-----|
 | [팀]프로젝트 | 23.05.09. ~ 23.05.17. | [데이터분석 프로젝트](https://github.com/YIsungjoon/EDA_project/blob/main/eda_1_fastcampus/README.md) | EDA | 팀장 |  | [링크](https://drive.google.com/file/d/1LiZJzf2Wn4hsWKbD3kcCFuWCF5XnlSfA/view?usp=drive_link) |
 | [팀]프로젝트 | 23.06.16. ~ 23.06.30. | [(Kaggle) ICR-Identifying Age-Related Conditions](https://www.notion.so/Kaggle-ICR-Use-Machine-Learning-to-detect-conditions-with-measurements-of-anonymous-characteristics-7b214aac5705468b99b50b0104228732?pvs=4) | Binary Classification | 팀장 | bronze | [링크](https://drive.google.com/file/d/15lVbEzT-LdWrEhrhDvIlkot0b8wa3tak/view?usp=drive_link) |
