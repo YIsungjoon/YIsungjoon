@@ -21,7 +21,7 @@
 | [팀]프로젝트 | 23.11.09. ~ 23.12.15. | [도메인 특화 LLM 챗봇(RAG with DPR)](https://github.com/YIsungjoon/MuseumChatbot) | QA Chatbot | 개념, 데이터 크롤링 및 질문 데이터셋, 모델링, PPT이미지, streamlit 담당 |  | [링크](https://drive.google.com/file/d/1LiZJzf2Wn4hsWKbD3kcCFuWCF5XnlSfA/view?usp=drive_link) |
 | [팀]프로젝트 | 24.01.09 ~ 24.03.06.| (드리밍) 감성 독서 도우미 : 시각장애인을 위한 AI기반 음성독서 어시스턴트 | Text to Audio | 팀원 | - | - |
 | [팀]프로젝트 | 24.03.11 ~ 24.05.08. | (드리밍)페르소나 챗봇 만들기 | 챗봇만들기 | 팀원 | - | - |
-| [팀]프로젝트 | 24.06.11 ~ 진행중| (드리밍)로또 예측 모델 만들기 | 쉬어가는 타임 | 팀장 | - | - |
+| [팀]프로젝트 | 24.06.11 ~ 진행중| (드리밍)로또 예측 모델 만들기 | 쉬어가는 타임 | 팀장 | - | [링크](https://drive.google.com/file/d/1i3M8pmc-YwzV2g0NfwFsF92iox1wLf8p/view?usp=drive_link) |
 ***
 ## skill set
 | 언어  | 데이터처리,분석 | 시각화                                 | ML,DL               |
