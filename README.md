@@ -1,47 +1,60 @@
-### Hi there 👋
+# 🧬 이성준 (YIsungjoon)
+### 🚀 AI & Multi-Agent System Engineer 
 
-# 이성준의 깃허브
-### 인공지능을 공부하고 있습니다.
+안녕하세요! 인공지능과 거대언어모델(LLM)을 활용한 **고도화된 다중 에이전트 시스템(Multi-Agent System) 설계 및 데이터 분석**을 공부하고 연구하는 이성준입니다.  
+복잡한 도메인 지식(건설 기준, 법률 정보)을 에이전트가 실시간으로 수집, 분석, 추론하고 최적의 해법을 찾아내도록 아키텍처를 설계하는 것에 열정을 가지고 있습니다.
 
-***
-[<img src="https://www.kaggle.com/static/images/site-logo.svg" width="100">](https://www.kaggle.com/treetreeanderson)
-***
-- E-Mail : leehm21897@daum.net
-- kaggle_ID : treetreelitcom
-- [포트폴리오폴더](https://drive.google.com/drive/folders/1ydydBjY-4Psi_SWMWH23e36OgyjBsUQ-?usp=drive_link)
-***
-## 프로젝트 및 대회 참가
-| 분류   | 기간  | 주제 | Task |역할 | 순위 | pdf링크 |
-|--------|------|------|-----|-----|-----|-----|
-| [팀]프로젝트 | 23.05.09. ~ 23.05.17. | [데이터분석 프로젝트](https://github.com/YIsungjoon/EDA_project/blob/main/eda_1_fastcampus/README.md) | EDA | 팀장 |  | [링크](https://drive.google.com/file/d/1LiZJzf2Wn4hsWKbD3kcCFuWCF5XnlSfA/view?usp=drive_link) |
-| [팀]프로젝트 | 23.06.16. ~ 23.06.30. | [(Kaggle) ICR-Identifying Age-Related Conditions](https://gleaming-watchmaker-b31.notion.site/Kaggle-ICR-Use-Machine-Learning-to-detect-conditions-with-measurements-of-anonymous-characteristics-7b214aac5705468b99b50b0104228732?pvs=4) | Binary Classification | 팀장 | bronze | [링크](https://drive.google.com/file/d/15lVbEzT-LdWrEhrhDvIlkot0b8wa3tak/view?usp=drive_link) |
-| [개인]이어드림 1차 모의경진대회 | 23.09.04. ~ 23.09.08. | 119 신고 접수량 예측 | Time series prediction | | 9/60 |  |
-| [개인]이어드림 2차 모의경진대회 | 23.09.27. ~ 23.10.06. | 이미지 기반 제품 결함 탐지 | Image Classification |  | 9/64 |  |
-| [개인]이어드림 3차 모의경진대회 | 23.10.30. ~ 23.11.03. | 자연스러운 영한 번역문 생성 | Translation |  | 5/64 |  |
-| [팀]프로젝트 | 23.11.09. ~ 23.12.15. | [도메인 특화 LLM 챗봇(RAG with DPR)](https://github.com/YIsungjoon/MuseumChatbot) | QA Chatbot | 개념, 데이터 크롤링 및 질문 데이터셋, 모델링, PPT이미지, streamlit 담당 |  | [링크](https://drive.google.com/file/d/1v_0luXL7qGWT6aQY-A-H63YxE4wowNAF/view?usp=drive_link) |
-| [팀]프로젝트 | 24.01.09 ~ 24.03.06.| (드리밍) 감성 독서 도우미 : 시각장애인을 위한 AI기반 음성독서 어시스턴트 | Text to Audio | 팀원 | - | - |
-| [팀]프로젝트 | 24.03.11 ~ 24.05.08. | (드리밍)챗데이트파트너 | 페르소나 챗봇 만들기 | 팀원 | - | [링크](https://drive.google.com/file/d/1doMk6y-3FZDbWqtRLp_IL_8b7oaAVKc6/view?usp=drive_link) |
-| [팀]프로젝트 | 24.05.17 ~ 24.07.10| (드리밍)로또 예측 모델 만들기 | 무작위 번호 예측 | 팀장 | - | [링크](https://drive.google.com/file/d/1i3M8pmc-YwzV2g0NfwFsF92iox1wLf8p/view?usp=drive_link) |
-***
-## skill set
-| 언어  | 데이터처리,분석 | 시각화                                 | ML,DL               |
-|------|-------------|--------------------------------------|---------------------|
-|Python|Pandas, SQL  |matplotlib, seaborn, plotly, streamlit|Pytorch, scikit-learn|
+---
 
-----------
+## 🛠️ Tech Stack & Skill Set
 
+<p align="left">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <!-- AI/ML/DL -->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <!-- LLM & Agents -->
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-2E8B57?style=flat-square&logo=networkxd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=google-gemini&logoColor=white" />
+  <!-- Data Engineering -->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <!-- Visuals & Deployment -->
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
-<!--
-**YIsungjoon/YIsungjoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📈 Git Stats & Profile Summary
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YIsungjoon&show_icons=true&theme=tokyonight&align=center" alt="YIsungjoon's GitHub Stats" />
+</p>
+
+---
+
+## 🏗️ 주요 프로젝트 및 연구 내역
+
+| 분류 | 기간 | 주제 및 링크 | 핵심 역할 / Task | 순위 / 성과 |
+| :--- | :--- | :--- | :--- | :--- |
+| **[팀] 에이전트** | 2026.05 | **[Fractal IRAC Multi-Agent Core Engine](https://github.com/YIsungjoon/Agent)** | LangGraph 기반 계층형 추론 트랙 설계, FSD 아키텍처 개편 및 노드 천이 TUI 개발 | 실시간 건설/법률 입체적 추론 완수 |
+| **[팀] 도구** | 2026.05 | **[OpenAPI Agent Tools & Parsers](https://github.com/YIsungjoon/Agent_tools)** | KCSC 설계 기준 및 법제처 API 연동, TLS HTTPS 우회 및 signed media 다운로더 패치 | OpenAPI 실시간 동적 바인딩 복원 |
+| **[팀] RAG** | 2023.11 ~ 2023.12 | **[도메인 특화 LLM 챗봇 (MuseumChatbot)](https://github.com/YIsungjoon/MuseumChatbot)** | 개념 기획, 데이터 크롤링 및 질문 데이터셋 구축, RAG with DPR 모델링 및 Streamlit UI | 박물관 안내 특화 챗봇 빌드 |
+| **[팀] 프로젝트** | 23.06 ~ 23.06 | **[(Kaggle) ICR - Identifying Age-Related Conditions](https://gleaming-watchmaker-b31.notion.site/Kaggle-ICR-Use-Machine-Learning-to-detect-conditions-with-measurements-of-anonymous-characteristics-7b214aac5705468b99b50b0104228732)** | 정형 데이터 이진 분류 모델링 | **Bronze Medal** 🥉 |
+| **[개인] 대회** | 23.10 | **이어드림 3차 모의경진대회** | 자연스러운 영한 번역문 생성 (NMT) | **5위** / 64명 |
+| **[개인] 대회** | 23.09 | **이어드림 1차 모의경진대회** | 119 신고 접수량 예측 (Time-Series) | **9위** / 60명 |
+| **[개인] 대회** | 23.09 | **이어드림 2차 모의경진대회** | 이미지 기반 제품 결함 탐지 (Classification) | **9위** / 64명 |
+| **[팀] 프로젝트** | 24.03 ~ 24.05 | **(드리밍) 챗데이트파트너** | 페르소나 챗봇 만들기 | 서비스 프로토타이핑 완수 |
+| **[팀] 프로젝트** | 24.05 ~ 24.07 | **(드리밍) 로또 예측 모델 만들기** | 시계열 및 무작위 패턴 분석 모델링 | 팀장 |
+
+---
+
+## 📬 Contact & Channels
+
+- 📧 **E-Mail**: [leehm21897@daum.net](mailto:leehm21897@daum.net)
+- 📊 **Kaggle**: [@treetreeanderson](https://www.kaggle.com/treetreeanderson) (Kaggle ID: `treetreelitcom`)
+- 📂 **Portfolio**: [Google Drive Folder](https://drive.google.com/drive/folders/1ydydBjY-4Psi_SWMWH23e36OgyjBsUQ-?usp=drive_link)
+- 📝 **Notion & Blog**: [공부 및 연구 노션](https://gleaming-watchmaker-b31.notion.site/7b214aac5705468b99b50b0104228732)
