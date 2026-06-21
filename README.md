@@ -63,7 +63,7 @@
 
 | 분류 | 기간 | 주제 및 링크 | 핵심 역할 / Task | 순위 / 성과 |
 | :--- | :--- | :--- | :--- | :--- |
-| **[팀] 에이전트** | 2026.05 | **[Fractal IRAC Multi-Agent Core Engine](https://github.com/YIsungjoon/Agent)** | LangGraph 기반 계층형 추론 트랙 설계, FSD 아키텍처 개편 및 노드 천이 TUI 개발 | 실시간 건설/법률 입체적 추론 완수 |
+| **[팀] 에이전트** | 2026.05 | **[Fractal IRAC Multi-Agent Core Engine](https://github.com/YIsungjoon/Agent)** | LangGraph 기반 계층형 추론 트랙 | 입체적 추론이 가능(gpt 5.5 기준) |
 | **[팀] 도구** | 2026.05 | **[OpenAPI Agent Tools & Parsers](https://github.com/YIsungjoon/Agent_tools)** | KCSC 설계 기준 및 법제처 API 연동, TLS HTTPS 우회 및 signed media 다운로더 패치 | OpenAPI 실시간 동적 바인딩 복원 |
 | **[팀] RAG** | 2023.11 ~ 2023.12 | **[도메인 특화 LLM 챗봇 (MuseumChatbot)](https://github.com/YIsungjoon/MuseumChatbot)** | 개념 기획, 데이터 크롤링 및 질문 데이터셋 구축, RAG with DPR 모델링 및 Streamlit UI | 박물관 안내 특화 챗봇 빌드 |
 | **[팀] 프로젝트** | 23.06 ~ 23.06 | **[(Kaggle) ICR - Identifying Age-Related Conditions](https://gleaming-watchmaker-b31.notion.site/Kaggle-ICR-Use-Machine-Learning-to-detect-conditions-with-measurements-of-anonymous-characteristics-7b214aac5705468b99b50b0104228732)** | 정형 데이터 이진 분류 모델링 | **Bronze Medal** 🥉 (349위/6,430) |
